@@ -1,6 +1,6 @@
 {
   "version": "1.0",
   "url": "put url here",
-  "extract_dir" "hello",
+  "extract_dir": "hello",
   "bin": "hello.exe"
 }
