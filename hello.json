@@ -1,5 +1,5 @@
 {
   "version": "1.0",
-  "url": "put url here",
+  "url": "https://github.com/metalfoxdev/scooptest/blob/main/hello.exe",
   "bin": "hello.exe"
 }
